@@ -2,7 +2,7 @@
 kotlin = "2.3.20"
 spring-boot = "4.0.4"
 spring-dependency-management = "1.1.7"
-exposed = "1.1.1"
+exposed = "1.5.0"
 h2 = "2.4.240"
 postgresql = "42.7.11"
 springdoc-openapi = "3.0.2"
